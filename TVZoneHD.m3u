@@ -1,0 +1,391 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"
+#EXTINF:-1 tvg-id="TVR.1.HD.ro" tvg-name="TVR 1" tvg-logo="https://www.tvzonehd.com/img/Tvr1FHD.webp" group-title="Generaliste",TVR 1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvr-1&name=TVR+1
+#EXTINF:-1 tvg-id="TVR.2.HD.ro" tvg-name="TVR 2" tvg-logo="https://www.tvzonehd.com/img/Tvr2hd.webp" group-title="Generaliste",TVR 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvr-2&name=TVR+2
+#EXTINF:-1 tvg-id="TVR.3.ro" tvg-name="TVR 3" tvg-logo="https://www.tvzonehd.com/img/tvr33.webp" group-title="Generaliste",TVR 3
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvr-3&name=TVR+3
+#EXTINF:-1 tvg-id="PRO.TV.HD.ro" tvg-name="PRO TV" tvg-logo="https://www.tvzonehd.com/img/Protv.webp" group-title="Generaliste",PRO TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprotv&name=PRO+TV
+#EXTINF:-1 tvg-id="Antena.1.ro" tvg-name="Antena1" tvg-logo="https://www.tvzonehd.com/img/Antena11.webp" group-title="Generaliste",Antena1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fantena-1&name=Antena1
+#EXTINF:-1 tvg-id="Prima.TV.HD.ro" tvg-name="Prima TV" tvg-logo="https://www.tvzonehd.com/img/primatv.webp" group-title="Generaliste",Prima TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-tv&name=Prima+TV
+#EXTINF:-1 tvg-id="Kanal.D.HD.ro" tvg-name="Kanal D" tvg-logo="https://www.tvzonehd.com/img/kanald.webp" group-title="Generaliste",Kanal D
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fkanal-d&name=Kanal+D
+#EXTINF:-1 tvg-id="Antena.Stars.HD.ro" tvg-name="Antena Stars" tvg-logo="https://www.tvzonehd.com/img/Stars.webp" group-title="Generaliste",Antena Stars
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fantena-stars&name=Antena+Stars
+#EXTINF:-1 tvg-id="TVR.Cultural.ro" tvg-name="TVR Cultural" tvg-logo="https://www.tvzonehd.com/img/TvrCult.webp" group-title="Generaliste",TVR Cultural
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvr-cultural&name=TVR+Cultural
+#EXTINF:-1 tvg-id="TVR.International.ro" tvg-name="Tvrinternational" tvg-logo="https://www.tvzonehd.com/img/tvrin.webp" group-title="Generaliste",Tvrinternational
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvrinternational&name=Tvrinternational
+#EXTINF:-1 tvg-id="" tvg-name="Moldova1" tvg-logo="https://www.tvzonehd.com/img/moldova1-removebg-preview.webp" group-title="Generaliste",Moldova1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmoldova1&name=Moldova1
+#EXTINF:-1 tvg-id="" tvg-name="Moldova2" tvg-logo="https://www.tvzonehd.com/img/Moldova_2.webp" group-title="Generaliste",Moldova2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmoldova2&name=Moldova2
+#EXTINF:-1 tvg-id="National.TV.ro" tvg-name="National TV" tvg-logo="https://www.tvzonehd.com/img/Ntv.webp" group-title="Generaliste",National TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnational-tv&name=National+TV
+#EXTINF:-1 tvg-id="National.24.Plus.ro" tvg-name="National 24 Plus" tvg-logo="https://www.tvzonehd.com/img/national24_plus.webp" group-title="Generaliste",National 24 Plus
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnational-24-plus&name=National+24+Plus
+#EXTINF:-1 tvg-id="National.TV.ro" tvg-name="Nationaltv2" tvg-logo="https://www.tvzonehd.com/img/tvn2.webp" group-title="Generaliste",Nationaltv2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnationaltv2&name=Nationaltv2
+#EXTINF:-1 tvg-id="" tvg-name="Tele7abc" tvg-logo="https://www.tvzonehd.com/img/Tele7abc-removebg-preview.webp" group-title="Generaliste",Tele7abc
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftele7abc&name=Tele7abc
+#EXTINF:-1 tvg-id="Acasa.Gold.HD.ro" tvg-name="Acasa Gold" tvg-logo="https://www.tvzonehd.com/img/acasaagold.webp" group-title="Generaliste",Acasa Gold
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Facasa-gold&name=Acasa+Gold
+#EXTINF:-1 tvg-id="Acasa.HD.ro" tvg-name="Acasa TV" tvg-logo="https://www.tvzonehd.com/img/AcasatvFhd.webp" group-title="Generaliste",Acasa TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Facasa-tv&name=Acasa+TV
+#EXTINF:-1 tvg-id="Kanal.D2.HD.ro" tvg-name="Kanal D2" tvg-logo="https://www.tvzonehd.com/img/kanald2.webp" group-title="Generaliste",Kanal D2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fkanal-d2&name=Kanal+D2
+#EXTINF:-1 tvg-id="Metropola.TV.HD.ro" tvg-name="Metropolatv" tvg-logo="https://www.tvzonehd.com/img/MetropolaTV-1.webp" group-title="Generaliste",Metropolatv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmetropolatv&name=Metropolatv
+#EXTINF:-1 tvg-id="Nasul.TV.ro" tvg-name="Nasul TV" tvg-logo="https://www.tvzonehd.com/img/nasultv.webp" group-title="Generaliste",Nasul TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnasul-tv&name=Nasul+TV
+#EXTINF:-1 tvg-id="Prima.TV.HD.ro" tvg-name="Primatvmoldova" tvg-logo="https://www.tvzonehd.com/img/primatv-moldova.webp" group-title="Generaliste",Primatvmoldova
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprimatvmoldova&name=Primatvmoldova
+#EXTINF:-1 tvg-id="" tvg-name="Primaworld" tvg-logo="https://www.tvzonehd.com/img/Prima-World.webp" group-title="Generaliste",Primaworld
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprimaworld&name=Primaworld
+#EXTINF:-1 tvg-id="PRO.TV.INTERNATIONAL.ro" tvg-name="PRO TV International" tvg-logo="https://www.tvzonehd.com/img/ProTvInt.webp" group-title="Generaliste",PRO TV International
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprotv-international&name=PRO+TV+International
+#EXTINF:-1 tvg-id="Digi.24.ro" tvg-name="Digi 24" tvg-logo="https://www.tvzonehd.com/img/digi24.webp" group-title="Știri",Digi 24
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigi24&name=Digi+24
+#EXTINF:-1 tvg-id="TVR.Info.ro" tvg-name="TVR Info" tvg-logo="https://www.tvzonehd.com/img/TVRinfo.webp" group-title="Știri",TVR Info
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvrinfo&name=TVR+Info
+#EXTINF:-1 tvg-id="Antena.3.CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="https://www.tvzonehd.com/img/Antena3cnn.webp" group-title="Știri",Antena 3 CNN
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fantena-3-cnn&name=Antena+3+CNN
+#EXTINF:-1 tvg-id="B1.TV.HD.ro" tvg-name="B1 TV" tvg-logo="" group-title="Știri",B1 TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fb1&name=B1+TV
+#EXTINF:-1 tvg-id="" tvg-name="Romania TV" tvg-logo="https://www.tvzonehd.com/img/RomaniaTVV.webp" group-title="Știri",Romania TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fromania-tv&name=Romania+TV
+#EXTINF:-1 tvg-id="Realitatea.Plus.ro" tvg-name="Realitatea Plus" tvg-logo="https://www.tvzonehd.com/img/realitatea.webp" group-title="Știri",Realitatea Plus
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frealitatea-plus&name=Realitatea+Plus
+#EXTINF:-1 tvg-id="Aleph.News.ro" tvg-name="Alephnews" tvg-logo="https://www.tvzonehd.com/img/Alephnew2.webp" group-title="Știri",Alephnews
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Falephnews&name=Alephnews
+#EXTINF:-1 tvg-id="Euronews.ro" tvg-name="Euronews" tvg-logo="https://www.tvzonehd.com/img/Euronew.webp" group-title="Știri",Euronews
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Feuro-news&name=Euronews
+#EXTINF:-1 tvg-id="Prima.News.ro" tvg-name="Prima News" tvg-logo="https://www.tvzonehd.com/img/primanews.webp" group-title="Știri",Prima News
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-news&name=Prima+News
+#EXTINF:-1 tvg-id="" tvg-name="Realitateamd" tvg-logo="https://www.tvzonehd.com/img/realitateamd.webp" group-title="Știri",Realitateamd
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frealitateamd&name=Realitateamd
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Sportiva" tvg-logo="https://www.tvzonehd.com/img/realitatasportiva.webp" group-title="Știri",Realitatea Sportiva
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frealitatea-sportiva&name=Realitatea+Sportiva
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Star" tvg-logo="https://www.tvzonehd.com/img/REALS.webp" group-title="Știri",Realitatea Star
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frealitatea-star&name=Realitatea+Star
+#EXTINF:-1 tvg-id="AMC.HD.ro" tvg-name="AMC" tvg-logo="https://www.tvzonehd.com/img/amc.webp" group-title="Filme & Seriale",AMC
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Famc&name=AMC
+#EXTINF:-1 tvg-id="AXN.HD.ro" tvg-name="AXN" tvg-logo="https://www.tvzonehd.com/img/AXN.webp" group-title="Filme & Seriale",AXN
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Faxn-hd&name=AXN
+#EXTINF:-1 tvg-id="AXN.Black.ro" tvg-name="AXN Black" tvg-logo="https://www.tvzonehd.com/img/axnBl.webp" group-title="Filme & Seriale",AXN Black
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Faxn-black&name=AXN+Black
+#EXTINF:-1 tvg-id="AXN.Spin.ro" tvg-name="AXN Spin" tvg-logo="https://www.tvzonehd.com/img/axnspin.webp" group-title="Filme & Seriale",AXN Spin
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Faxn-spin&name=AXN+Spin
+#EXTINF:-1 tvg-id="AXN.White.ro" tvg-name="AXN White" tvg-logo="https://www.tvzonehd.com/img/AxnWithe.webp" group-title="Filme & Seriale",AXN White
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Faxn-white&name=AXN+White
+#EXTINF:-1 tvg-id="Bollywood.FILM.ro" tvg-name="Bollywoodfilm" tvg-logo="https://www.tvzonehd.com/img/BollwoodFilm.webp" group-title="Filme & Seriale",Bollywoodfilm
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbollywoodfilm&name=Bollywoodfilm
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV" tvg-logo="https://www.tvzonehd.com/img/bollywoodtv.webp" group-title="Filme & Seriale",Bollywood TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbollywood-tv&name=Bollywood+TV
+#EXTINF:-1 tvg-id="Cinemaraton.ro" tvg-name="Cinemaraton" tvg-logo="https://www.tvzonehd.com/img/cinemaraton.webp" group-title="Filme & Seriale",Cinemaraton
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcinemaraton&name=Cinemaraton
+#EXTINF:-1 tvg-id="Cinemaraton.ro" tvg-name="Cinemaratonmoldova" tvg-logo="https://www.tvzonehd.com/img/CinemaratonMD.webp" group-title="Filme & Seriale",Cinemaratonmoldova
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcinemaratonmoldova&name=Cinemaratonmoldova
+#EXTINF:-1 tvg-id="Cinemaraton.ro" tvg-name="Cinemaraton Plus" tvg-logo="https://www.tvzonehd.com/img/Cinemaratonplus.webp" group-title="Filme & Seriale",Cinemaraton Plus
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcinemaraton-plus&name=Cinemaraton+Plus
+#EXTINF:-1 tvg-id="Cinemax.HD.ro" tvg-name="Cinemax" tvg-logo="https://www.tvzonehd.com/img/CinemaXfhd.webp" group-title="Filme & Seriale",Cinemax
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcinemax&name=Cinemax
+#EXTINF:-1 tvg-id="Cinemax.2.HD.ro" tvg-name="Cinemax 2" tvg-logo="https://www.tvzonehd.com/img/cinemax2.webp" group-title="Filme & Seriale",Cinemax 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcinemax-2&name=Cinemax+2
+#EXTINF:-1 tvg-id="CineWow.ro" tvg-name="Cinewow" tvg-logo="https://www.tvzonehd.com/img/cinewow.webp" group-title="Filme & Seriale",Cinewow
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcinewow&name=Cinewow
+#EXTINF:-1 tvg-id="Comedy.Central.HD.ro" tvg-name="Comedy Central" tvg-logo="https://www.tvzonehd.com/img/comedycentral.webp" group-title="Filme & Seriale",Comedy Central
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcomedy-central&name=Comedy+Central
+#EXTINF:-1 tvg-id="" tvg-name="Commandotv" tvg-logo="https://www.tvzonehd.com/img/comnando.webp" group-title="Filme & Seriale",Commandotv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcommandotv&name=Commandotv
+#EXTINF:-1 tvg-id="Diva.ro" tvg-name="Diva" tvg-logo="https://www.tvzonehd.com/img/Divahd.webp" group-title="Filme & Seriale",Diva
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdiva&name=Diva
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="https://www.tvzonehd.com/img/epicdrama.webp" group-title="Filme & Seriale",Epic Drama
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fepic-drama&name=Epic+Drama
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="Film Box" tvg-logo="https://www.tvzonehd.com/img/filmboxone.webp" group-title="Filme & Seriale",Film Box
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilm-box&name=Film+Box
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="Filmboxfamily" tvg-logo="https://www.tvzonehd.com/img/FilmBoxComedy.webp" group-title="Filme & Seriale",Filmboxfamily
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilmboxfamily&name=Filmboxfamily
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="FilmBox Hits" tvg-logo="https://www.tvzonehd.com/img/FilmBoxHits.webp" group-title="Filme & Seriale",FilmBox Hits
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilm-box-premium&name=FilmBox+Hits
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="Film Box Plus" tvg-logo="https://www.tvzonehd.com/img/FilmboxEmotion011.webp" group-title="Filme & Seriale",Film Box Plus
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilm-box-plus&name=Film+Box+Plus
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="Filmboxstars" tvg-logo="https://www.tvzonehd.com/img/FilmboxLoveandCrime.webp" group-title="Filme & Seriale",Filmboxstars
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilmboxstars&name=Filmboxstars
+#EXTINF:-1 tvg-id="FILM.CAFE.HD.ro" tvg-name="Film Cafe" tvg-logo="https://www.tvzonehd.com/img/filmcafe.webp" group-title="Filme & Seriale",Film Cafe
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilm-cafe&name=Film+Cafe
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="Filmefantezie" tvg-logo="https://www.tvzonehd.com/img/Fantez.webp" group-title="Filme & Seriale",Filmefantezie
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilmefantezie&name=Filmefantezie
+#EXTINF:-1 tvg-id="Film.+.HD.ro" tvg-name="Filmix" tvg-logo="https://www.tvzonehd.com/img/Filmmix.webp" group-title="Filme & Seriale",Filmix
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilmix&name=Filmix
+#EXTINF:-1 tvg-id="Film.Mania.ro" tvg-name="Film Mania" tvg-logo="https://www.tvzonehd.com/img/FilmMANIA.webp" group-title="Filme & Seriale",Film Mania
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilm-mania&name=Film+Mania
+#EXTINF:-1 tvg-id="Film.Now.HD.ro" tvg-name="Filmnow" tvg-logo="https://www.tvzonehd.com/img/ffILM.webp" group-title="Filme & Seriale",Filmnow
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffilmnow&name=Filmnow
+#EXTINF:-1 tvg-id="HBO.HD.ro" tvg-name="HBO" tvg-logo="https://www.tvzonehd.com/img/HbO.webp" group-title="Filme & Seriale",HBO
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhbo&name=HBO
+#EXTINF:-1 tvg-id="HBO.2.HD.ro" tvg-name="HBO 2" tvg-logo="https://www.tvzonehd.com/img/HbO2.webp" group-title="Filme & Seriale",HBO 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhbo-2&name=HBO+2
+#EXTINF:-1 tvg-id="HBO.3.HD.ro" tvg-name="HBO 3" tvg-logo="https://www.tvzonehd.com/img/HbO3.webp" group-title="Filme & Seriale",HBO 3
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhbo-3&name=HBO+3
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgia" tvg-logo="https://www.tvzonehd.com/img/Nostalg.webp" group-title="Filme & Seriale",Nostalgia
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnostalgia-tv&name=Nostalgia
+#EXTINF:-1 tvg-id="" tvg-name="Pinkfilm" tvg-logo="https://www.tvzonehd.com/img/Pink.webp" group-title="Filme & Seriale",Pinkfilm
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fpinkfilm&name=Pinkfilm
+#EXTINF:-1 tvg-id="" tvg-name="Prima Comedy" tvg-logo="https://www.tvzonehd.com/img/primacomedy.webp" group-title="Filme & Seriale",Prima Comedy
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-comedy&name=Prima+Comedy
+#EXTINF:-1 tvg-id="Pro.Cinema.HD.ro" tvg-name="PRO Cinema" tvg-logo="https://www.tvzonehd.com/img/Pro-Cinema.webp" group-title="Filme & Seriale",PRO Cinema
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fpro-cinema&name=PRO+Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Rofilme" tvg-logo="https://www.tvzonehd.com/img/rofilme.webp" group-title="Filme & Seriale",Rofilme
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frofilme&name=Rofilme
+#EXTINF:-1 tvg-id="" tvg-name="Skyshowtime 1" tvg-logo="https://www.tvzonehd.com/img/skyshowtime1.webp" group-title="Filme & Seriale",Skyshowtime 1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fskyshowtime-1&name=Skyshowtime+1
+#EXTINF:-1 tvg-id="" tvg-name="Skyshowtime 2" tvg-logo="https://www.tvzonehd.com/img/skyshowtime2.webp" group-title="Filme & Seriale",Skyshowtime 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fskyshowtime-2&name=Skyshowtime+2
+#EXTINF:-1 tvg-id="Viasat.Kino.ro" tvg-name="Viasat Kino" tvg-logo="https://www.tvzonehd.com/img/viasatkino.webp" group-title="Filme & Seriale",Viasat Kino
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fviasat-kino&name=Viasat+Kino
+#EXTINF:-1 tvg-id="Warner.TV.HD.ro" tvg-name="Warner TV" tvg-logo="https://www.tvzonehd.com/img/warnertv.webp" group-title="Filme & Seriale",Warner TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fwarner-tv&name=Warner+TV
+#EXTINF:-1 tvg-id="" tvg-name="Western" tvg-logo="https://www.tvzonehd.com/img/westernn.webp" group-title="Filme & Seriale",Western
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fwestern&name=Western
+#EXTINF:-1 tvg-id="" tvg-name="Antenasport" tvg-logo="https://www.tvzonehd.com/img/AntenaSport.webp" group-title="Sport",Antenasport
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fantenasport&name=Antenasport
+#EXTINF:-1 tvg-id="Digi.Sport.1.HD.ro" tvg-name="Digi Sport 1" tvg-logo="https://www.tvzonehd.com/img/digg1.webp" group-title="Sport",Digi Sport 1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigi-sport-1&name=Digi+Sport+1
+#EXTINF:-1 tvg-id="Digi.Sport.2.HD.ro" tvg-name="Digi Sport 2" tvg-logo="https://www.tvzonehd.com/img/DigiSportt2.webp" group-title="Sport",Digi Sport 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigi-sport-2&name=Digi+Sport+2
+#EXTINF:-1 tvg-id="Digi.Sport.3.HD.ro" tvg-name="Digi Sport 3" tvg-logo="https://www.tvzonehd.com/img/DigISport3.webp" group-title="Sport",Digi Sport 3
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigi-sport-3&name=Digi+Sport+3
+#EXTINF:-1 tvg-id="Digi.Sport.4.HD.ro" tvg-name="Digi Sport 4" tvg-logo="https://www.tvzonehd.com/img/DigISport4.webp" group-title="Sport",Digi Sport 4
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigi-sport-4&name=Digi+Sport+4
+#EXTINF:-1 tvg-id="Eurosport.1.HD.ro" tvg-name="Eurosport" tvg-logo="https://www.tvzonehd.com/img/eurosport1.webp" group-title="Sport",Eurosport
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Feurosport-1&name=Eurosport
+#EXTINF:-1 tvg-id="Eurosport.2.HD.ro" tvg-name="Eurosport 2" tvg-logo="https://www.tvzonehd.com/img/eurosport2.webp" group-title="Sport",Eurosport 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Feurosport-2&name=Eurosport+2
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-name="Eurosport4k" tvg-logo="https://www.tvzonehd.com/img/euro4k.webp" group-title="Sport",Eurosport4k
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Feurosport4k&name=Eurosport4k
+#EXTINF:-1 tvg-id="Prima.4K.ro" tvg-name="Prima4k" tvg-logo="https://www.tvzonehd.com/img/PrimaSport4K.webp" group-title="Sport",Prima4k
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima4k&name=Prima4k
+#EXTINF:-1 tvg-id="Prima.Sport.1.HD.ro" tvg-name="Prima Sport 1" tvg-logo="https://www.tvzonehd.com/img/PrimaSp1.webp" group-title="Sport",Prima Sport 1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-sport-1&name=Prima+Sport+1
+#EXTINF:-1 tvg-id="Prima.Sport.2.HD.ro" tvg-name="Prima Sport 2" tvg-logo="https://www.tvzonehd.com/img/Primasp2.webp" group-title="Sport",Prima Sport 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-sport-2&name=Prima+Sport+2
+#EXTINF:-1 tvg-id="Prima.Sport.3.HD.ro" tvg-name="Prima Sport 3" tvg-logo="https://www.tvzonehd.com/img/PrimaSp3.webp" group-title="Sport",Prima Sport 3
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-sport-3&name=Prima+Sport+3
+#EXTINF:-1 tvg-id="Prima.Sport.4.HD.ro" tvg-name="Prima Sport 4" tvg-logo="https://www.tvzonehd.com/img/PrimaSp4.webp" group-title="Sport",Prima Sport 4
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-sport-4&name=Prima+Sport+4
+#EXTINF:-1 tvg-id="Prima.Sport.5.HD.ro" tvg-name="Prima Sport 5" tvg-logo="https://www.tvzonehd.com/img/Primasp5.webp" group-title="Sport",Prima Sport 5
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprima-sport-5&name=Prima+Sport+5
+#EXTINF:-1 tvg-id="Pro.Arena.HD.ro" tvg-name="PRO Arena" tvg-logo="https://www.tvzonehd.com/img/PRO-ARENA-FHD.webp" group-title="Sport",PRO Arena
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fpro-arena&name=PRO+Arena
+#EXTINF:-1 tvg-id="Sport.Extra.ro" tvg-name="Sport Extra" tvg-logo="https://www.tvzonehd.com/img/sportextra.webp" group-title="Sport",Sport Extra
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fsport-extra&name=Sport+Extra
+#EXTINF:-1 tvg-id="TVR.Sport.HD.ro" tvg-name="TVR Sport" tvg-logo="https://www.tvzonehd.com/img/TvrSp.webp" group-title="Sport",TVR Sport
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvr-sport&name=TVR+Sport
+#EXTINF:-1 tvg-id="" tvg-name="Atomic" tvg-logo="https://www.tvzonehd.com/img/atomic.webp" group-title="Muzică",Atomic
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fatomic&name=Atomic
+#EXTINF:-1 tvg-id="" tvg-name="Balcan TV" tvg-logo="https://www.tvzonehd.com/img/balcantv.webp" group-title="Muzică",Balcan TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbalcan-tv&name=Balcan+TV
+#EXTINF:-1 tvg-id="" tvg-name="Boomtv" tvg-logo="https://www.tvzonehd.com/img/boomtv.webp" group-title="Muzică",Boomtv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fboomtv&name=Boomtv
+#EXTINF:-1 tvg-id="EMI.TV.HD.ro" tvg-name="Emitv" tvg-logo="https://www.tvzonehd.com/img/emi.webp" group-title="Muzică",Emitv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Femitv&name=Emitv
+#EXTINF:-1 tvg-id="Etno.TV.HD.ro" tvg-name="Etno TV" tvg-logo="https://www.tvzonehd.com/img/etnotv.webp" group-title="Muzică",Etno TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fetno-tv&name=Etno+TV
+#EXTINF:-1 tvg-id="Favorit.ro" tvg-name="Favorit 2" tvg-logo="" group-title="Muzică",Favorit 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffavorit-2&name=Favorit+2
+#EXTINF:-1 tvg-id="Favorit.ro" tvg-name="Favorit2" tvg-logo="https://www.tvzonehd.com/img/favtv2.webp" group-title="Muzică",Favorit2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffavorit2&name=Favorit2
+#EXTINF:-1 tvg-id="Favorit.ro" tvg-name="Favorit TV" tvg-logo="https://www.tvzonehd.com/img/Facorit.webp" group-title="Muzică",Favorit TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffavorit-tv&name=Favorit+TV
+#EXTINF:-1 tvg-id="" tvg-name="Horatv" tvg-logo="https://www.tvzonehd.com/img/hora.webp" group-title="Muzică",Horatv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhoratv&name=Horatv
+#EXTINF:-1 tvg-id="" tvg-name="Impact Dance" tvg-logo="https://www.tvzonehd.com/img/impactdance.webp" group-title="Muzică",Impact Dance
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fimpact-dance&name=Impact+Dance
+#EXTINF:-1 tvg-id="" tvg-name="Impact Manele" tvg-logo="https://www.tvzonehd.com/img/impactmanele.webp" group-title="Muzică",Impact Manele
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fimpact-manele&name=Impact+Manele
+#EXTINF:-1 tvg-id="Kiss.TV.ro" tvg-name="Kiss TV" tvg-logo="https://www.tvzonehd.com/img/kisstv.webp" group-title="Muzică",Kiss TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fkiss-tv&name=Kiss+TV
+#EXTINF:-1 tvg-id="" tvg-name="Liratv" tvg-logo="https://www.tvzonehd.com/img/lira.webp" group-title="Muzică",Liratv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fliratv&name=Liratv
+#EXTINF:-1 tvg-id="Magic.TV.HD.ro" tvg-name="Magic TV" tvg-logo="https://www.tvzonehd.com/img/magictv.webp" group-title="Muzică",Magic TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmagic-tv&name=Magic+TV
+#EXTINF:-1 tvg-id="Mezzo.ro" tvg-name="Mezzo" tvg-logo="https://www.tvzonehd.com/img/mezzo-pink-logo-png_seeklogo-328020 (1).webp" group-title="Muzică",Mezzo
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmezzo&name=Mezzo
+#EXTINF:-1 tvg-id="Mooz.Dance.ro" tvg-name="Moozdance" tvg-logo="https://www.tvzonehd.com/img/moozdancee.webp" group-title="Muzică",Moozdance
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmoozdance&name=Moozdance
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80" tvg-logo="https://www.tvzonehd.com/img/mtv.webp" group-title="Muzică",MTV 80
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmtv-80&name=MTV+80
+#EXTINF:-1 tvg-id="Music.Channel.ro" tvg-name="Muzicchannel" tvg-logo="https://www.tvzonehd.com/img/MusicChannel.webp" group-title="Muzică",Muzicchannel
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmuzicchannel&name=Muzicchannel
+#EXTINF:-1 tvg-id="Party.Mix.HD.ro" tvg-name="Parti Mix" tvg-logo="https://www.tvzonehd.com/img/partimix.webp" group-title="Muzică",Parti Mix
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fparti-mix&name=Parti+Mix
+#EXTINF:-1 tvg-id="Rock.TV.HD.ro" tvg-name="Rocktv" tvg-logo="https://www.tvzonehd.com/img/Rocktv.webp" group-title="Muzică",Rocktv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frocktv&name=Rocktv
+#EXTINF:-1 tvg-id="Taraf.TV.HD.ro" tvg-name="Taraf TV" tvg-logo="https://www.tvzonehd.com/img/taraftv.webp" group-title="Muzică",Taraf TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftaraf-tv&name=Taraf+TV
+#EXTINF:-1 tvg-id="" tvg-name="Tequila" tvg-logo="https://www.tvzonehd.com/img/Tequila.webp" group-title="Muzică",Tequila
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftequila&name=Tequila
+#EXTINF:-1 tvg-id="" tvg-name="Traditional TV" tvg-logo="https://www.tvzonehd.com/img/traditionaltv.webp" group-title="Muzică",Traditional TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftraditional-tv&name=Traditional+TV
+#EXTINF:-1 tvg-id="TVR.Folclor.ro" tvg-name="TVR Folclor" tvg-logo="https://www.tvzonehd.com/img/TVRfolclor.webp" group-title="Muzică",TVR Folclor
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvrfolclorr&name=TVR+Folclor
+#EXTINF:-1 tvg-id="UTV.HD.ro" tvg-name="Utv" tvg-logo="https://www.tvzonehd.com/img/UTV.webp" group-title="Muzică",Utv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Futv&name=Utv
+#EXTINF:-1 tvg-id="" tvg-name="Zu TV" tvg-logo="https://www.tvzonehd.com/img/zutv.webp" group-title="Muzică",Zu TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fzu-tv&name=Zu+TV
+#EXTINF:-1 tvg-id="Animal.Planet.ro" tvg-name="Animal Planet" tvg-logo="https://www.tvzonehd.com/img/animalplanet.webp" group-title="Documentare",Animal Planet
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fanimal-planet&name=Animal+Planet
+#EXTINF:-1 tvg-id="Crime.+.Investigation.ro" tvg-name="Crime Investigation" tvg-logo="https://www.tvzonehd.com/img/crimeinvestigation.webp" group-title="Documentare",Crime Investigation
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcrime-investigation&name=Crime+Investigation
+#EXTINF:-1 tvg-id="Da.Vinci.ro" tvg-name="Davinci" tvg-logo="https://www.tvzonehd.com/img/logo_cast_da_vinci.webp" group-title="Documentare",Davinci
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdavinci&name=Davinci
+#EXTINF:-1 tvg-id="" tvg-name="Descopera" tvg-logo="https://www.tvzonehd.com/img/descoperaacum.webp" group-title="Documentare",Descopera
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdescopera&name=Descopera
+#EXTINF:-1 tvg-id="Digi.Animal.World.HD.ro" tvg-name="Digi Animal World" tvg-logo="https://www.tvzonehd.com/img/DigiAni.webp" group-title="Documentare",Digi Animal World
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigi-animal-world&name=Digi+Animal+World
+#EXTINF:-1 tvg-id="Digi.Life.HD.ro" tvg-name="Digilife" tvg-logo="https://www.tvzonehd.com/img/DigiLifee.webp" group-title="Documentare",Digilife
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigilife&name=Digilife
+#EXTINF:-1 tvg-id="Digi.World.HD.ro" tvg-name="Digiworld" tvg-logo="https://www.tvzonehd.com/img/DigiWorld.webp" group-title="Documentare",Digiworld
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdigiworld&name=Digiworld
+#EXTINF:-1 tvg-id="Discovery.Channel.ro" tvg-name="Discovery" tvg-logo="" group-title="Documentare",Discovery
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdiscovery&name=Discovery
+#EXTINF:-1 tvg-id="Discovery.Channel.ro" tvg-name="Discovery Channel" tvg-logo="https://www.tvzonehd.com/img/dicov.webp" group-title="Documentare",Discovery Channel
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdiscovery-channel&name=Discovery+Channel
+#EXTINF:-1 tvg-id="DocuBox.HD.ro" tvg-name="Docubox" tvg-logo="https://www.tvzonehd.com/img/DocuBox.webp" group-title="Documentare",Docubox
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdocubox&name=Docubox
+#EXTINF:-1 tvg-id="Exploris.TV.ro" tvg-name="Exploris" tvg-logo="https://www.tvzonehd.com/img/exploris.webp" group-title="Documentare",Exploris
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fexploris&name=Exploris
+#EXTINF:-1 tvg-id="" tvg-name="Fishing Hunting" tvg-logo="https://www.tvzonehd.com/img/fishinghunting.webp" group-title="Documentare",Fishing Hunting
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ffishing-hunting&name=Fishing+Hunting
+#EXTINF:-1 tvg-id="HGTV.HD.ro" tvg-name="Hgtv" tvg-logo="https://www.tvzonehd.com/img/hgtv.webp" group-title="Documentare",Hgtv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhgtv&name=Hgtv
+#EXTINF:-1 tvg-id="History.HD.ro" tvg-name="History Channel" tvg-logo="https://www.tvzonehd.com/img/historychannel.webp" group-title="Documentare",History Channel
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhistory-channel&name=History+Channel
+#EXTINF:-1 tvg-id="ID.Investigation.Discovery.HD.ro" tvg-name="ID Investigation" tvg-logo="https://www.tvzonehd.com/img/IDinv.webp" group-title="Documentare",ID Investigation
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fid-investigation&name=ID+Investigation
+#EXTINF:-1 tvg-id="Love.Nature.ro" tvg-name="Lovenature" tvg-logo="https://www.tvzonehd.com/img/LoveNNature.webp" group-title="Documentare",Lovenature
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Flovenature&name=Lovenature
+#EXTINF:-1 tvg-id="Medika.TV.ro" tvg-name="Medikatv" tvg-logo="https://www.tvzonehd.com/img/medika_tv.webp" group-title="Documentare",Medikatv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmedikatv&name=Medikatv
+#EXTINF:-1 tvg-id="" tvg-name="Natgeopple" tvg-logo="https://www.tvzonehd.com/img/natgeo.webp" group-title="Documentare",Natgeopple
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnatgeopple&name=Natgeopple
+#EXTINF:-1 tvg-id="National.Geographic.HD.ro" tvg-name="National Geographic" tvg-logo="https://www.tvzonehd.com/img/natgeoo.webp" group-title="Documentare",National Geographic
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnational-geographic&name=National+Geographic
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.ro" tvg-name="National Geographic Wild" tvg-logo="https://www.tvzonehd.com/img/NatGeooW.webp" group-title="Documentare",National Geographic Wild
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnational-geographic-wild&name=National+Geographic+Wild
+#EXTINF:-1 tvg-id="" tvg-name="Paprika" tvg-logo="https://www.tvzonehd.com/img/ppk.webp" group-title="Documentare",Paprika
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fpaprika&name=Paprika
+#EXTINF:-1 tvg-id="" tvg-name="Prima History" tvg-logo="https://www.tvzonehd.com/img/prima-history.webp" group-title="Documentare",Prima History
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fprimahistory&name=Prima+History
+#EXTINF:-1 tvg-id="TLC.ro" tvg-name="TLC" tvg-logo="https://www.tvzonehd.com/img/tlc.webp" group-title="Documentare",TLC
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftlc&name=TLC
+#EXTINF:-1 tvg-id="Travel.Mix.ro" tvg-name="Travelmixt" tvg-logo="https://www.tvzonehd.com/img/Travelmix.webp" group-title="Documentare",Travelmixt
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftravelmixt&name=Travelmixt
+#EXTINF:-1 tvg-id="Viasat.Explore.HD.ro" tvg-name="Viasat Explore" tvg-logo="https://www.tvzonehd.com/img/viasatexplore.webp" group-title="Documentare",Viasat Explore
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fviasat-explore&name=Viasat+Explore
+#EXTINF:-1 tvg-id="Viasat.History.HD.ro" tvg-name="Viasat History" tvg-logo="https://www.tvzonehd.com/img/viasathistory.webp" group-title="Documentare",Viasat History
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fviasat-history&name=Viasat+History
+#EXTINF:-1 tvg-id="Viasat.Nature.HD.ro" tvg-name="Viasat Nature" tvg-logo="https://www.tvzonehd.com/img/viasatnature.webp" group-title="Documentare",Viasat Nature
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fviasat-nature&name=Viasat+Nature
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-name="Cartoonito" tvg-logo="https://www.tvzonehd.com/img/cartoonito.webp" group-title="Copii",Cartoonito
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcartoonito&name=Cartoonito
+#EXTINF:-1 tvg-id="Cartoon.Network.ro" tvg-name="Cartoon Network" tvg-logo="https://www.tvzonehd.com/img/cartoonnetwork.webp" group-title="Copii",Cartoon Network
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcartoon-network&name=Cartoon+Network
+#EXTINF:-1 tvg-id="" tvg-name="Clasiccartoons" tvg-logo="https://www.tvzonehd.com/img/cartoons.webp" group-title="Copii",Clasiccartoons
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fclasiccartoons&name=Clasiccartoons
+#EXTINF:-1 tvg-id="Disney.Channel.ro" tvg-name="Disney Channel" tvg-logo="https://www.tvzonehd.com/img/disney.webp" group-title="Copii",Disney Channel
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdisney-channel&name=Disney+Channel
+#EXTINF:-1 tvg-id="Disney.Junior.ro" tvg-name="Disney Junior" tvg-logo="https://www.tvzonehd.com/img/disneyjunior.webp" group-title="Copii",Disney Junior
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdisney-junior&name=Disney+Junior
+#EXTINF:-1 tvg-id="Duck.TV.ro" tvg-name="Duck TV" tvg-logo="https://www.tvzonehd.com/img/ducktv.webp" group-title="Copii",Duck TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fduck-tv&name=Duck+TV
+#EXTINF:-1 tvg-id="Jimjam.ro" tvg-name="Jimjam" tvg-logo="https://www.tvzonehd.com/img/jimjam.webp" group-title="Copii",Jimjam
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fjimjam&name=Jimjam
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" tvg-logo="https://www.tvzonehd.com/img/minimax.webp" group-title="Copii",Minimax
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fminimax&name=Minimax
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" tvg-logo="https://www.tvzonehd.com/img/nickelodeon.webp" group-title="Copii",Nickelodeon
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnickelodeon&name=Nickelodeon
+#EXTINF:-1 tvg-id="Nick.Jr.ro" tvg-name="Nick Jr" tvg-logo="https://www.tvzonehd.com/img/nickjr.webp" group-title="Copii",Nick Jr
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnick-jr&name=Nick+Jr
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" tvg-logo="https://www.tvzonehd.com/img/nicktoons.webp" group-title="Copii",Nicktoons
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnicktoons&name=Nicktoons
+#EXTINF:-1 tvg-id="TraLaLa.HD.ro" tvg-name="Tralala" tvg-logo="https://www.tvzonehd.com/img/tralala.webp" group-title="Copii",Tralala
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftralala&name=Tralala
+#EXTINF:-1 tvg-id="TraLaLa.HD.ro" tvg-name="Tralaladsn" tvg-logo="https://www.tvzonehd.com/img/tralaladsn.webp" group-title="Copii",Tralaladsn
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftralaladsn&name=Tralaladsn
+#EXTINF:-1 tvg-id="" tvg-name="Angelus TV" tvg-logo="https://www.tvzonehd.com/img/angeliustv.webp" group-title="Religioase",Angelus TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fangelus-tv&name=Angelus+TV
+#EXTINF:-1 tvg-id="Credo.TV.ro" tvg-name="Credo TV" tvg-logo="https://www.tvzonehd.com/img/credotv.webp" group-title="Religioase",Credo TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcredo-tv&name=Credo+TV
+#EXTINF:-1 tvg-id="Speranta.TV.ro" tvg-name="Speranta TV" tvg-logo="https://www.tvzonehd.com/img/sperantatv.webp" group-title="Religioase",Speranta TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fsperanta-tv&name=Speranta+TV
+#EXTINF:-1 tvg-id="Trinitas.TV.HD.ro" tvg-name="Trinitas TV" tvg-logo="https://www.tvzonehd.com/img/trinitastv.webp" group-title="Religioase",Trinitas TV
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftrinitas-tv&name=Trinitas+TV
+#EXTINF:-1 tvg-id="BBC.Earth.HD.ro" tvg-name="BBC Earth" tvg-logo="https://www.tvzonehd.com/img/BBC.webp" group-title="Internaționale",BBC Earth
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbbc-earth&name=BBC+Earth
+#EXTINF:-1 tvg-id="BBC.First.ro" tvg-name="BBC First" tvg-logo="https://www.tvzonehd.com/img/bbcfirst.webp" group-title="Internaționale",BBC First
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbbc-first&name=BBC+First
+#EXTINF:-1 tvg-id="Agro.TV.ro" tvg-name="Agrotvmd" tvg-logo="https://www.tvzonehd.com/img/agrotvmd-removebg-preview.webp" group-title="Diverse",Agrotvmd
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fagrotvmd&name=Agrotvmd
+#EXTINF:-1 tvg-id="Antena.International.ro" tvg-name="Antena International" tvg-logo="https://www.tvzonehd.com/img/antenaint.webp" group-title="Diverse",Antena International
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fantena-international&name=Antena+International
+#EXTINF:-1 tvg-id="" tvg-name="Argotv" tvg-logo="https://www.tvzonehd.com/img/argoo-removebg-preview.webp" group-title="Diverse",Argotv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fargotv&name=Argotv
+#EXTINF:-1 tvg-id="" tvg-name="Asiatv" tvg-logo="https://www.tvzonehd.com/img/Asia_TV.webp" group-title="Diverse",Asiatv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fasiatv&name=Asiatv
+#EXTINF:-1 tvg-id="" tvg-name="Barazatv" tvg-logo="https://www.tvzonehd.com/img/barazatv.webp" group-title="Diverse",Barazatv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbarazatv&name=Barazatv
+#EXTINF:-1 tvg-id="" tvg-name="Beautyon" tvg-logo="https://www.tvzonehd.com/img/Beauty.on.webp" group-title="Diverse",Beautyon
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbeautyon&name=Beautyon
+#EXTINF:-1 tvg-id="" tvg-name="Busuioctv" tvg-logo="https://www.tvzonehd.com/img/busuioc-removebg-preview.webp" group-title="Diverse",Busuioctv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fbusuioctv&name=Busuioctv
+#EXTINF:-1 tvg-id="" tvg-name="Camerasmile" tvg-logo="https://www.tvzonehd.com/img/camerasmile.webp" group-title="Diverse",Camerasmile
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fcamerasmile&name=Camerasmile
+#EXTINF:-1 tvg-id="" tvg-name="Chefi" tvg-logo="https://www.tvzonehd.com/img/chefi.webp" group-title="Diverse",Chefi
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fchefiro&name=Chefi
+#EXTINF:-1 tvg-id="" tvg-name="Dizi" tvg-logo="https://www.tvzonehd.com/img/dizi.webp" group-title="Diverse",Dizi
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fdizi&name=Dizi
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment" tvg-logo="https://www.tvzonehd.com/img/E!.webp" group-title="Diverse",Entertainment
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fentertainment&name=Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="Galaumorului" tvg-logo="https://www.tvzonehd.com/img/GalaUmorului.webp" group-title="Diverse",Galaumorului
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fgalaumorului&name=Galaumorului
+#EXTINF:-1 tvg-id="Happy.Channel.ro" tvg-name="Happy" tvg-logo="https://www.tvzonehd.com/img/happytv.webp" group-title="Diverse",Happy
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fhappy&name=Happy
+#EXTINF:-1 tvg-id="" tvg-name="Impacttv" tvg-logo="https://www.tvzonehd.com/img/impact.webp" group-title="Diverse",Impacttv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fimpacttv&name=Impacttv
+#EXTINF:-1 tvg-id="Job.TV.ro" tvg-name="Jobtv" tvg-logo="https://www.tvzonehd.com/img/job-removebg-preview.webp" group-title="Diverse",Jobtv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fjobtv&name=Jobtv
+#EXTINF:-1 tvg-id="" tvg-name="Lasfierbinti" tvg-logo="https://www.tvzonehd.com/img/LasFierbinti.webp" group-title="Diverse",Lasfierbinti
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Flasfierbinti&name=Lasfierbinti
+#EXTINF:-1 tvg-id="" tvg-name="Mrbean" tvg-logo="https://www.tvzonehd.com/img/MRBEAN.webp" group-title="Diverse",Mrbean
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fmrbean&name=Mrbean
+#EXTINF:-1 tvg-id="" tvg-name="Noroctv" tvg-logo="https://www.tvzonehd.com/img/Noroc_TV.webp" group-title="Diverse",Noroctv
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fnoroctv&name=Noroctv
+#EXTINF:-1 tvg-id="Orizont.TV.ro" tvg-name="Orizont" tvg-logo="https://www.tvzonehd.com/img/orizont.webp" group-title="Diverse",Orizont
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Forizont&name=Orizont
+#EXTINF:-1 tvg-id="" tvg-name="Povesticusuflet" tvg-logo="https://www.tvzonehd.com/img/povesticusuflet.webp" group-title="Diverse",Povesticusuflet
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fpovesticusuflet&name=Povesticusuflet
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1" tvg-logo="https://www.tvzonehd.com/img/ppv1.webp" group-title="Diverse",PPV 1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fppv-1&name=PPV+1
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2" tvg-logo="https://www.tvzonehd.com/img/ppv2.webp" group-title="Diverse",PPV 2
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fppv-2&name=PPV+2
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3" tvg-logo="https://www.tvzonehd.com/img/ppv3.webp" group-title="Diverse",PPV 3
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fppv-3&name=PPV+3
+#EXTINF:-1 tvg-id="" tvg-name="Proofi24" tvg-logo="https://www.tvzonehd.com/img/profi24.webp" group-title="Diverse",Proofi24
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fproofi24&name=Proofi24
+#EXTINF:-1 tvg-id="" tvg-name="Raspodia" tvg-logo="https://www.tvzonehd.com/img/Raspodia.webp" group-title="Diverse",Raspodia
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fraspodia&name=Raspodia
+#EXTINF:-1 tvg-id="" tvg-name="Rotvvalencia" tvg-logo="https://www.tvzonehd.com/img/ROtvValencia.webp" group-title="Diverse",Rotvvalencia
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Frotvvalencia&name=Rotvvalencia
+#EXTINF:-1 tvg-id="" tvg-name="Selection1" tvg-logo="https://www.tvzonehd.com/img/Selection1.webp" group-title="Diverse",Selection1
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fselection1&name=Selection1
+#EXTINF:-1 tvg-id="" tvg-name="Tom" tvg-logo="https://www.tvzonehd.com/img/tomandjerry.webp" group-title="Diverse",Tom
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftom&name=Tom
+#EXTINF:-1 tvg-id="" tvg-name="Tvzonehd.apk" tvg-logo="" group-title="Diverse",Tvzonehd.apk
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvzonehd.apk&name=Tvzonehd.apk
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="https://www.tvzonehd.com/img/zooomtv.webp" group-title="Diverse",Zoom
+plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fzoom&name=Zoom
