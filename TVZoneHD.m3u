@@ -385,7 +385,5 @@ plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2F
 plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fselection1&name=Selection1
 #EXTINF:-1 tvg-id="" tvg-name="Tom" tvg-logo="https://www.tvzonehd.com/img/tomandjerry.webp" group-title="Diverse",Tom
 plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftom&name=Tom
-#EXTINF:-1 tvg-id="" tvg-name="Tvzonehd.apk" tvg-logo="" group-title="Diverse",Tvzonehd.apk
-plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Ftvzonehd.apk&name=Tvzonehd.apk
 #EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="https://www.tvzonehd.com/img/zooomtv.webp" group-title="Diverse",Zoom
 plugin://plugin.video.tvzonehd/?mode=play&page=https%3A%2F%2Fwww.tvzonehd.com%2Fzoom&name=Zoom
